@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Clipbee
 
 Clipbee is a browser extension which will help with copying text and files from one device to another. This will help people such like programmers send code from one computer to another computer
@@ -7,8 +5,7 @@ Clipbee is a browser extension which will help with copying text and files from 
 ## UX Team Members
 
 * **[Nathaniel Martinez](https://github.com/UsabilityEngineering/ux-journal-njmartinez2/tree/main/journal)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
-* **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **[David Carbajal](https://github.com/UsabilityEngineering/portfolio-PepperJam-Loser/tree/main/journal)** -
 
 # User-Centered Design Artifacts
 
