@@ -20,10 +20,11 @@ Clipbee is a browser extension which will help with copying text and files from 
 
 Our research highlighted **key features** that users yearn for and shows an open slot for a new extension to **overtake** the market.
 - Through our scenerios, we see that **speed** is important to our customers and platforms
-- We also see that our **competitors lack diversity** in platforms their extension if available on
+- We also see that our **competitors lack diversity** when it comes to platforms their extension if available on
 - Our customers want **more tools** than what's on the market to foster **returning and consistency customers**
+
 Our [sketches](sketches/) highlight the direction we want to take this to give a **welcoming** feeling to customers
-[Scenerios](personas/) shows the initial **needs** of the customer
+Scenerios](personas/) shows the initial **needs** of the customer
 
 [Full phase I report](phaseI/)
 
