@@ -24,6 +24,7 @@ Our research highlighted **key features** that users yearn for and shows an open
 - Our customers want **more tools** than what's on the market to foster **returning and consistency customers**
 
 Our [sketches](sketches/) highlight the direction we want to take this to give a **welcoming** feeling to customers
+
 [Scenerios](personas/) shows the initial **needs** of the customer
 
 [Full phase I report](phaseI/)
