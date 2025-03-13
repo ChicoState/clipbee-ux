@@ -1,9 +1,7 @@
 # Personas
 
-![](!!!image_filename.png!!!)
-
 **Max**
-![](!!!Picture1.jpg!!!)
+[](Picture1.jpg)
 29 year old male in San Jose, California
 Software Developer at Cspace Coding
 B.A. in computer science, studying for a master at UC Davis
@@ -17,7 +15,7 @@ and friends who finds his work interesting and unique, the issue arises when he 
 the files over discord or has his cloud storage full already.
 
 **Stephanie**
-![](!!!Picture2.jpg!!!)
+[](Picture2.jpg)
 20 year old self-employed Artist in Los Angeles, California
 Works per commission
 Stephanie works at home, making art for her clients to pay her bills. She is very
@@ -28,7 +26,7 @@ devices and even sometimes gets flashes of inspiration when she takes a break to
 through her feeds.
 
 **James**
-![](!!!Picture3.jpg!!!)
+[](Picture3.jpg)
 40 year old office worker in Orlando, California
 Works alongside his team mates to deliver statistics to the Analytics department
 James spends a lot of time at work make spread sheets and organizing files sent to
