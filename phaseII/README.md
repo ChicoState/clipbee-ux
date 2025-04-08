@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Clipbee is a Chromium browser extension that helps users save text, images, and files from one computer to another. Allowing users to have a temporary storage place to allow them to access the files wherever the user is logged in with the extension.
 
 ## Methods
 
