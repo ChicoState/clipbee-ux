@@ -1,6 +1,6 @@
 # Personas
 
-[**Max**](Picture1.jpg)
+[**Max**](Picture1.png)
 29 year old male in San Jose, California
 Software Developer at Cspace Coding
 B.A. in computer science, studying for a master at UC Davis
