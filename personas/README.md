@@ -1,5 +1,6 @@
 # Personas
 
+![Max](Picture1.png)
 [**Max**](Picture1.png)
 29 year old male in San Jose, California
 Software Developer at Cspace Coding
@@ -13,7 +14,7 @@ He codes for his personal project but he wants to share his work with his collea
 and friends who finds his work interesting and unique, the issue arises when he can’t send
 the files over discord or has his cloud storage full already.
 
-
+![Max](Picture2.jpg)
 [**Stephanie**](Picture2.jpg)
 20 year old self-employed Artist in Los Angeles, California
 Works per commission
@@ -24,6 +25,7 @@ gets her work done the more time she has for herself. She works between a lot of
 devices and even sometimes gets flashes of inspiration when she takes a break to scroll
 through her feeds.
 
+![Max](Picture3.jpg)
 [**James**](Picture3.jpg)
 40 year old office worker in Orlando, California
 Works alongside his team mates to deliver statistics to the Analytics department
