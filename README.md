@@ -33,7 +33,13 @@ Our [sketches](sketches/) highlight the direction we want to take this to give a
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+-**Informal Feedback**  revealed what we could improve for our users satisfaction with the following feedback
+  -**User Feedback**: Showing what users should do when they open the extension after logging in
+  -**Tips**: On what users should do when they're in the extension.
+-**Cognitive Walkthrough** highlighted areas that had missing features that affect the functionality of the extension, such as **button feedback** to the user indicating what the user is doing as this would help out the user to indcate what they would need to do, cause there was a lack of indicaiton for the user, **copying and pasting** as it was unclear to where or not the user could copy and paste file into clipbee or if they need to copy just the text.
+-Wireframes shows modifications to what previously was missing features
+  -Feedback of what the user is doing to indicate **button feedback**
+  
 
 [Full phase II report](phaseII/)
 
