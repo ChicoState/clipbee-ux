@@ -10,7 +10,7 @@ In our third phase, we used Prototypes which led to User Testing of the extensio
 
 We made a prototype of Clipbee using figma which acted as almost working replica of the extension we have invision. The prototype allowed us to to implement buttons which led to different overlays of the extension and showed the seperate pages of the profile. 
 
-The prototype led to user testing the extension 
+The prototype led to user testing the extension. The user testing required a couple of things before we would get started with the user testing our extension, the first was an [informed conset form](informed_consent_form.pdf)
 
 
 
