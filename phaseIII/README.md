@@ -2,20 +2,28 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Clipbee is a Chromium browser extension that helps users save text, images, and files from one computer to another. This allows users to have a temporary storage place to access the files wherever the user is logged in with the extension. During this last phase, we went to make a prototype that would show us how users would interact with the extension.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+In our third phase, we used Prototypes which led to User Testing of the extension.
+
+We made a prototype of Clipbee using figma which acted as almost working replica of the extension we have invision. The prototype allowed us to to implement buttons which led to different overlays of the extension and showed the seperate pages of the profile. 
+
+The prototype led to user testing the extension 
+
+
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+The results of our user testing
+
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+We 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Due to 
+
