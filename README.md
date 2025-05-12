@@ -50,7 +50,9 @@ Our [sketches](sketches/) highlight the direction we want to take this to give a
 - **Prototype** for Clipbee Extension which allows for a **high fidelity** extension
 - **User Testing** was conducted and feedback was given by **real users**
     -Both **Quantitative** and **Qualitative** data was collected.
+  
     -Data revealed that Clipbee needs a better gui and more polishing
+  
 -The Clipbee extension was confusing at most, but most users were willing to eventually try it out if more polishing came to it.
 
 [Full phase III report](phaseIII/)
