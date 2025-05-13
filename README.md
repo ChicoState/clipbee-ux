@@ -4,8 +4,8 @@ Clipbee is a browser extension which will help with copying text and files from 
 
 ## UX Team Members
 
-* **[Nathaniel Martinez](https://github.com/UsabilityEngineering/ux-journal-njmartinez2/tree/main/journal)** - Personas And Scenerios, Heuristice Evaluations, Competetive Analysis, Base of Divergent(Main) Sketch
-* **[David Carbajal](https://github.com/UsabilityEngineering/portfolio-PepperJam-Loser/tree/main/journal)** - Personas And Scenerios, Heuristice Evaluations, Competetive Analysis, Ideas for Divergent Sketch
+* **[Nathaniel Martinez](https://github.com/UsabilityEngineering/ux-journal-njmartinez2/tree/main/journal)** - Personas And Scenerios, Heuristice Evaluations, Competetive Analysis, Base of Divergent(Main) Sketch, User Test Protocol, Prototype and UI Design Ideas, Conducting User Tests
+* **[David Carbajal](https://github.com/UsabilityEngineering/portfolio-PepperJam-Loser/tree/main/journal)** - Personas And Scenerios, Heuristice Evaluations, Competetive Analysis, Ideas for Divergent Sketch, User Test Protocol, Prototype, Conducting User Tests
 
 # User-Centered Design Artifacts
 
