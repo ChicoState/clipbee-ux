@@ -54,6 +54,7 @@ Our [sketches](sketches/) highlight the direction we want to take this to give a
 - Clipbee was said to be confusing to some but most users said they would personally use it after more polishing.
 
 [User Test Protocol](phaseIII/protocol.pdf)
+
 [User Test Prototype](prototype/)
 
 [Full phase III report](phaseIII/)
