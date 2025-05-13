@@ -12,7 +12,7 @@ Clipbee is a browser extension which will help with copying text and files from 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -53,8 +53,8 @@ Our [sketches](sketches/) highlight the direction we want to take this to give a
   - Data revealed that Clipbee needs a better gui and provide more clarity to features
 - Clipbee was said to be confusing to some but most users said they would personally use it after more polishing.
 
-[User Test Protocol](phaseIII/protocol.pdf)
+[User Test Protocol](phaseIII/protocol.pdf) This is the protocol used for all out user tests.
 
-[User Test Prototype](prototype/)
+[User Test Prototype](prototype/) This the a png extracted version of our prototype.
 
 [Full phase III report](phaseIII/)
