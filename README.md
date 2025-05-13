@@ -12,7 +12,7 @@ Clipbee is a browser extension which will help with copying text and files from 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototype/)
+* [Prototype](https://www.figma.com/proto/GA1JksosVFgs2GoxEYDzdU/Clipbee-Wireframe-Prototype?node-id=0-1&t=nU3dZehDROTxC7Dt-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
