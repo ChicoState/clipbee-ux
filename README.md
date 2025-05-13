@@ -47,10 +47,13 @@ Our [sketches](sketches/) highlight the direction we want to take this to give a
 
 **Executive Summary**
 
-- [**Prototype**](phaseIII/protocol.pdf) for Clipbee Extension which allows for a **high fidelity** extension
-- **User Testing** was conducted and feedback was given by **real users**
+- **Prototype** for Clipbee Extension which allows for a **high fidelity** extension
+- **User Test** were conducted and feedback was given by **real users**
   - Both **Quantitative** and **Qualitative** data was collected.
   - Data revealed that Clipbee needs a better gui and provide more clarity to features
 - Clipbee was said to be confusing to some but most users said they would personally use it after more polishing.
+
+[User Test Protocol](phaseIII/protocol.pdf)
+[User Test Prototype](phaseIII/prototype/)
 
 [Full phase III report](phaseIII/)
